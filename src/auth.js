@@ -5,7 +5,7 @@ var config = {
 
   headers: {
     "Authorization":
-      "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NSwiZW1haWwiOiJ1c2VyMTIzNEAxMjMuY29tIiwicGxhdGZvcm1JZCI6MSwiaWF0IjoxNjM4Nzg0OTc4LCJleHAiOjE2MzkyMTY5Nzh9.rHlCBjXaJXUM94VdHf0TdbIdKsQkwgzkp2Aoh-4Tpek",
+      "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NSwiZW1haWwiOiJ1c2VyMTIzNEAxMjMuY29tIiwicGxhdGZvcm1JZCI6MSwiaWF0IjoxNjM4Nzg3MTI4LCJleHAiOjE2MzkyMTkxMjh9.UMiZ5IFtoAzn9Pm-G364w7MKsaEtzHnmYQh20TwVAqc",
   },
 };
 
